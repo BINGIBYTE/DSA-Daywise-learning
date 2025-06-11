@@ -1,4 +1,6 @@
-//Probllem
+// Problem: Best Time to Buy and Sell Stock (LeetCode)
+// Link: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
+//Java Solution
 
 
 class Solution {
